@@ -609,6 +609,10 @@
    "dai": "経師"
   }
  ],
+ "translation": {
+  "count": 5,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-mitsune-jikaawase",
   "work": "躬恒自歌合",
@@ -621,7 +625,7 @@
   "blocks": 5,
   "chars": 1294,
   "poems": 37,
-  "yaku": 0,
+  "yaku": 5,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T23:00:33+09:00"
